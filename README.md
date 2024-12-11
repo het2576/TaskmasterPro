@@ -69,7 +69,7 @@ To get started with Taskmaster Pro locally, follow these steps:
     ```
 ## Contributing
 
-We welcome contributions to Taskmaster Pro! If you have ideas for new features, fixes, or improvements, feel free to fork the repository and submit a pull request.
+Welcome contributions to Taskmaster Pro! If you have ideas for new features, fixes, or improvements, feel free to fork the repository and submit a pull request.
 
 Thank you for checking out Taskmaster Pro! Stay organized, be productive! 😊
 
